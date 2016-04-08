@@ -1,0 +1,7 @@
+/node_modules/*
+/app/*
+/typings/*
+/LICENSE.md
+package.json
+tsconfig.json
+typings.json
